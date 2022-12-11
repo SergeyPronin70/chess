@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SergeyPronin70/chess/static/css/main.c5911b3a.css",
+    "main.js": "/SergeyPronin70/chess/static/js/main.34e3aa45.js",
+    "index.html": "/SergeyPronin70/chess/index.html",
+    "main.c5911b3a.css.map": "/SergeyPronin70/chess/static/css/main.c5911b3a.css.map",
+    "main.34e3aa45.js.map": "/SergeyPronin70/chess/static/js/main.34e3aa45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5911b3a.css",
+    "static/js/main.34e3aa45.js"
+  ]
+}
